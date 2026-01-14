@@ -97,3 +97,14 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+########################################
+# Third-party Asset Store packages
+########################################
+
+# Ignore third-party assets
+/Assets/ThirdParty/**
+/Assets/ThirdParty.meta
+
+# Keep folder
+!/Assets/ThirdParty/.gitkeep
